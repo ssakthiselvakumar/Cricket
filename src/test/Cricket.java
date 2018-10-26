@@ -9,12 +9,16 @@ public class Cricket {
 		System.out.println("50 over");
 
 	}
-	public void OneDays() {
+	public void DayNi8() {
 		System.out.println("50 over");
 
 	}
-	public void one() {
-		System.out.println("50 over");
+	public void Test() {
+		System.out.println("90 over");
+
+	}
+	public void T20() {
+		System.out.println("20 over");
 
 	}
 
