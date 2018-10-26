@@ -13,5 +13,9 @@ public class Cricket {
 		System.out.println("50 over");
 
 	}
+	public void one() {
+		System.out.println("50 over");
+
+	}
 
 }
